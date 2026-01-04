@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160514718786",
+    "project_id": "pawsafe-becdf",
+    "storage_bucket": "pawsafe-becdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160514718786:android:9c701606e58e491c14c1db",
+        "android_client_info": {
+          "package_name": "com.example.pawsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxNRZBtszDRGWatD5j3bFQ--ggX5gitY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
